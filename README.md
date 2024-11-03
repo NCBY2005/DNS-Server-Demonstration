@@ -1,4 +1,4 @@
-# DNS-Server-in-Rust
+# DNS-Server-in-RUST
 
 **Rust DNS Server**
 
